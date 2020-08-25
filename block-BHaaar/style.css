@@ -1,0 +1,148 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+.fbox{
+    display:inline-block;
+    width: 350px;
+    height: 160px;
+    background-color:#FE5349;
+    margin-left: 250px; 
+    margin-top: 20px;
+    padding: 10px;
+    
+}
+.sbox{
+    display:inline-block;
+    width: 180px;
+    height: 160px;
+    background-color:#0C8871;
+    margin-left: 20px; 
+    margin-top: 20px;
+    padding: 10px;
+    
+
+}
+.tbox{
+    display:inline-block;
+    width: 180px;
+    height: 160px;
+    background-color:#B601FF;
+    margin-left: 20px; 
+    margin-top: 20px;
+    padding: 10px;
+    
+}
+.box4{
+    display:inline-block;
+    width: 180px;
+    height: 160px;
+    background-color:#0DC1FD;
+    margin-left: 250px; 
+    margin-top: 20px;
+    padding: 10px;
+    }
+
+.box5{
+    display:inline-block;
+    width: 350px;
+    height: 160px;
+    background-color:#08CA80;
+    margin-left: 20px; 
+    margin-top: 20px;
+    padding: 10px;
+    
+}
+.box6{
+    display:inline-block;
+    width: 180px;
+    height: 160px;
+    background-color:#01F361;
+    margin-left: 20px; 
+    margin-top: 20px;
+    padding: 10px;
+
+}
+.box7{
+    display:inline-block;
+    width: 180px;
+    height: 160px;
+    background-color:yellow;
+    margin-left: 250px; 
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.box8{
+    display:inline-block;
+    width: 180px;
+    height: 160px;
+    background-color:orange;
+    margin-left: 20px; 
+    margin-top: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.box9{
+    display:inline-block;
+    width: 350px;
+    height: 160px;
+    background-color:#E52F2D;
+    margin-left: 20px; 
+    margin-top: 20px;
+    padding: 10px;
+    
+    
+}
+
+span{
+    color:white
+}
