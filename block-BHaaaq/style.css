@@ -110,7 +110,15 @@ h1{
 }
 .bigbox{
   display: inline-block;
-  background-color: brown;
+  background-color:#812E80;
+  margin: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+}
+
+p{
+  color: beige;
   width:300px;
   height:300px;
   margin:15px;
@@ -119,10 +127,7 @@ h1{
   border-right: 15px solid #808080;
   border-bottom: 10px solid yellow;
   border-left: 15px solid  green;
-  outline: 13px solid #812E80;
+  background-color: brown;
   
-}
-
-h4{
-  color: beige;
+  
 }
