@@ -47,102 +47,71 @@ table {
 	border-spacing: 0;
 }
 
+/*content*/
+.container{
+    width: 850px;
+    margin-left: 200px;
+}
 
-
-
-.fbox{
+.bigbox{
     display:inline-block;
     width: 350px;
     height: 160px;
+    color: white;
+    margin: 10px 10px;
+    padding: 10px;
+}
+.smallbox{
+    display:inline-block;
+    width: 180px;
+    height: 160px;
+    margin: 10px 10px;
+    color: white;
+    padding: 10px;
+   
+}
+.google-guideline{
+    
     background-color:#FE5349;
-    margin-left: 250px; 
-    margin-top: 20px;
-    padding: 10px;
     
 }
-.sbox{
-    display:inline-block;
-    width: 180px;
-    height: 160px;
+.material-design{
+    
     background-color:#0C8871;
-    margin-left: 20px; 
-    margin-top: 20px;
-    padding: 10px;
-    
 
 }
-.tbox{
-    display:inline-block;
-    width: 180px;
-    height: 160px;
-    background-color:#B601FF;
-    margin-left: 20px; 
-    margin-top: 20px;
-    padding: 10px;
+
+.doodle-archive{
+   
+   background-color:#B601FF;
     
 }
-.box4{
-    display:inline-block;
-    width: 180px;
-    height: 160px;
+.google{
+   
     background-color:#0DC1FD;
-    margin-left: 250px; 
-    margin-top: 20px;
-    padding: 10px;
-    }
-
-.box5{
-    display:inline-block;
-    width: 350px;
-    height: 160px;
+    
+}
+.design-minutes{
+ 
     background-color:#08CA80;
-    margin-left: 20px; 
-    margin-top: 20px;
-    padding: 10px;
     
 }
-.box6{
-    display:inline-block;
-    width: 180px;
-    height: 160px;
+.glass-design{
+    
     background-color:#01F361;
-    margin-left: 20px; 
-    margin-top: 20px;
-    padding: 10px;
-
-}
-.box7{
-    display:inline-block;
-    width: 180px;
-    height: 160px;
-    background-color:yellow;
-    margin-left: 250px; 
-    margin-top: 20px;
-    padding: 10px;
-    margin-bottom: 10px;
-}
-.box8{
-    display:inline-block;
-    width: 180px;
-    height: 160px;
-    background-color:orange;
-    margin-left: 20px; 
-    margin-top: 10px;
-    padding: 10px;
-    margin-bottom: 10px;
-}
-.box9{
-    display:inline-block;
-    width: 350px;
-    height: 160px;
-    background-color:#E52F2D;
-    margin-left: 20px; 
-    margin-top: 20px;
-    padding: 10px;
     
+}
+.HTML{
+   
+    background-color:#E8FF1D;
+   
     
 }
 
-span{
-    color:white
+.CSS{
+    background-color: #FE7405;
 }
+.javascript{
+    background-color: #E52F2D;
+}
+
